@@ -56,16 +56,16 @@ ICT”.
 È utile, in questa premessa, ricordare che la maggioranza dei contratti
 pubblici che riguardano l’ICT:
 
--  derivano da una gara o rappresentano appalti specifici di accordi
+-  deriva da una gara o rappresenta appalti specifici di accordi
    quadro;
 
--  sono pluriennali (per cui un certo grado di avvicendamento del
+-  è pluriennale (per cui un certo grado di avvicendamento del
    personale del fornitore è inevitabile);
 
--  comprendono più di un’iniziativa progettuale, in genere numerosi
-   progetti distinti, che vengono condotti in parte sequenzialmente, in
+-  comprende più di un’iniziativa progettuale, in genere numerosi
+   progetti distinti che vengono condotti in parte sequenzialmente, in
    parte in parallelo, non necessariamente dallo stesso gruppo di lavoro
-   del fornitore;
+   del fornitore.
 
 Ai fini del presente documento, i contratti ICT si possono classificare
 come segue:
@@ -247,7 +247,7 @@ CED
   Centro Elaborazione Dati
 
 CAD
-  Codice Amministrazione Digitale
+  Codice dell'Amministrazione Digitale
 
 CC
   Common Criteria
